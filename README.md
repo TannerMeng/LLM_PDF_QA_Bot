@@ -3,6 +3,13 @@
 ## Overview
 This project implements an AI agent that leverages OpenAI’s GPT-3.5 model to extract answers from a PDF document and post the results on Slack. The agent takes a PDF file and a list of questions as input, retrieves answers from the content of the PDF, and posts those answers to a specified Slack channel. The implementation avoids using pre-built chains from frameworks like Langchain and LLama Index to ensure a custom solution.
 
+## Demo Video
+
+You can view the demo video in the repository under the `media` folder:
+
+[Demo Video](./media/1.mp4)
+
+
 ## Features
 - **PDF Parsing**: Extracts text from large PDF documents.
 - **OpenAI Integration**: Uses GPT-3.5 to generate answers to specific questions based on the content of the PDF.
