@@ -20,7 +20,7 @@ This project implements an AI agent that leverages OpenAI’s GPT-3.5 model to e
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/LLM_PDF_QA_Bot.git
+git clone https://github.com/code-griffin/LLM_PDF_QA_Bot.git
 cd LLM_PDF_QA_Bot
 ```
 
