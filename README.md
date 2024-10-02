@@ -7,7 +7,7 @@ This project implements an AI agent that leverages OpenAI’s GPT-3.5 model to e
 
 You can view the demo video in the repository under the `media` folder:
 
-[Demo Video](./media/1.mp4)
+https://raw.githubusercontent.com/code-griffin/LLM_PDF_QA_Bot/main/media/1.mp4
 
 
 ## Features
