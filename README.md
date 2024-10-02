@@ -9,7 +9,6 @@ You can view the demo video in the repository under the `media` folder:
 
 [DEMO VIDEO] (./media/1.mp4)
 
-
 ## Features
 - **PDF Parsing**: Extracts text from large PDF documents.
 - **OpenAI Integration**: Uses GPT-3.5 to generate answers to specific questions based on the content of the PDF.
